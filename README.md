@@ -28,7 +28,7 @@ The Flight Booking System is designed to facilitate flight bookings for customer
     ```
 
 2. **Database Configuration:**
-    - Create a MySQL database named `flight_booking_db`.
+    - Create a MySQL database named `ticket`.
     - Update the `application.properties` file with your database configurations.
 
 3. **Run the Application:**
