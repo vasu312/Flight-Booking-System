@@ -6,6 +6,10 @@ This is a simple Flight Booking System built using Spring Boot + JSP + MySQL.
 
 The Flight Booking System is designed to facilitate flight bookings for customers. It provides functionalities for users to search for flights, book tickets, and manage their bookings.
 
+## Screenshot
+
+<img src="https://vasu3.netlify.app/assets/pro1.jpg" width="70%" alt="project_img" />
+
 ## Features
 
 - **Search Flights:** Allows users to search for available flights based on various parameters like date, destination, and departure location.
